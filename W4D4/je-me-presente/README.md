@@ -9,7 +9,9 @@ ATTENTION : Nous avons un seul et unique dossier, il suffit d'aller sur le serve
 
 Bon courage pour vos corrections,
 
-n'oubliez pas de suivre le processus habituel : bundle install pour ne pas oublier de gem :) et rails db:migrate
+n'oubliez pas de suivre le processus habituel : 
+    bundle install pour ne pas oublier de gem :) 
+    et rails db:migrate 
 
 --------------------------------------------------------------
 
